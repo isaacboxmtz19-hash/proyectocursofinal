@@ -1,5 +1,4 @@
 # StudyAI - Asistente Inteligente para Estudiantes
-
 ##  Resumen
 
 StudyAI es una propuesta de herramienta basada en Inteligencia Artificial que ayuda a los estudiantes a organizar sus actividades académicas y detectar las materias o temas en los que necesitan mejorar.
