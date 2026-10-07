@@ -1,51 +1,34 @@
 # StudyAI - Asistente Inteligente para Estudiantes
-##  Resumen
 
-StudyAI es una propuesta de herramienta basada en Inteligencia Artificial que ayuda a los estudiantes a organizar sus actividades académicas y detectar las materias o temas en los que necesitan mejorar.
+Final project for the Building AI course project
 
-El sistema analiza información como calificaciones, materias, temas difíciles y fechas de exámenes para generar recomendaciones y planes de estudio personalizados.
+## Summary
 
----
+StudyAI es una propuesta de herramienta basada en Inteligencia Artificial que ayuda a los estudiantes a organizar sus actividades académicas y detectar las materias o temas en los que necesitan mejorar. El sistema analiza información como calificaciones, materias, temas difíciles y fechas de exámenes para generar recomendaciones y planes de estudio personalizados orientados a optimizar el rendimiento educativo.
 
-##  Objetivo
+## Resumen
 
-El objetivo principal de StudyAI es ayudar a los estudiantes a aprovechar mejor su tiempo de estudio mediante recomendaciones generadas a partir de sus necesidades académicas.
+StudyAI es una propuesta de herramienta basada en Inteligencia Artificial que ayuda a los estudiantes a organizar sus actividades académicas y detectar las materias o temas en los que necesitan mejorar. El sistema analiza información como calificaciones, materias, temas difíciles y fechas de exámenes para generar recomendaciones y planes de estudio personalizados orientados a optimizar el rendimiento educativo.
 
----
+## Background
 
-##  Problema
+Muchos estudiantes tienen dificultades para organizar correctamente su tiempo de estudio y decidir qué materias requieren mayor atención. StudyAI busca resolver este problema ofreciendo una guía estructurada y adaptada a las necesidades de cada estudiante, permitiéndoles concentrarse en sus áreas más débiles antes de las fechas de evaluación.
 
-Muchos estudiantes tienen dificultades para organizar correctamente su tiempo y decidir qué temas deberían estudiar primero.
+## How is it used?
 
-Algunos de los problemas más comunes son:
+Los estudiantes ingresan sus materias, tareas pendientes y fechas de exámenes. Con base en esto, el sistema genera cronogramas de estudio y alertas inteligentes sobre los temas que requieren mayor refuerzo académico.
 
--  No saber qué temas necesitan reforzar.
--  Mala organización del tiempo.
--  Acumulación de tareas y exámenes.
--  Dificultad para encontrar materiales adecuados.
--  Bajo rendimiento en algunas materias.
+## Data sources and AI methods
 
-StudyAI busca ofrecer una solución sencilla utilizando Inteligencia Artificial.
+El sistema recopila registros de evaluaciones y horarios ingresados por los usuarios. Utiliza algoritmos de filtrado y optimización para clasificar las prioridades de estudio y sugerir horarios óptimos de preparación.
 
----
+## Challenges
 
-##  ¿Cómo funciona?
+El sistema depende de que el usuario ingrese información precisa sobre su progreso. Además, no sustituye la tutoría académica directa ni evalúa factores externos como el estrés del alumno.
 
-El estudiante proporciona algunos datos al sistema, por ejemplo:
+## What next?
 
-- Nombre de la materia.
-- Calificación actual.
-- Temas que considera difíciles.
-- Fechas de exámenes.
-- Tiempo disponible para estudiar.
-
-Después, el sistema analiza estos datos y genera recomendaciones.
-
-### Ejemplo
-
-**Datos introducidos:**
-
-```text
+A futuro se planea integrar la plataforma con sistemas de gestión escolar y asistentes conversacionales para responder dudas en tiempo real sobre las materias.
 Materia: Matemáticas
 Calificación: 65
 Tema difícil: Ecuaciones
